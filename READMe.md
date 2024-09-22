@@ -2,6 +2,12 @@
 
 In this project auth pages implemented using react native with expo and typescript. Atomic design applied for component structure.
 
+## Installation Guide
+
+1. Clone the project `git clone https://github.com/Scholak/vermo-registration-ui.git`
+2. Install dependencies `npm run install` or `yarn install`
+3. Run the project `npm run start` or `yarn start`
+
 ### Used Packages
 
 - Expo Font
